@@ -45,14 +45,6 @@ A curated list of awesome open source projects by [CDQ AG](https://www.cdq.com/)
 
 - [action-opsgenie-create-alert](https://github.com/cdqag/action-opsgenie-create-alert) - Create alerts in OpsGenie from GitHub Actions workflows with rich configuration options including responders, tags, priorities, and custom properties.
 
-### Secrets Management
-
-- [infisical-secrets-action](https://github.com/cdqag/infisical-secrets-action) - Inject Infisical secrets into GitHub workflows with support for OIDC and Universal Auth methods, exportable as environment variables or files.
-
-### Helpers & Utilities
-
-- [actions-helpers](https://github.com/cdqag/actions-helpers) - Reusable helpers for Bash-based GitHub Actions including job helpers, JSON helpers, log helpers, and YAML helpers.
-
 ## Terraform Providers
 
 - [terraform-provider-jiracloud](https://github.com/cdqag/terraform-provider-jiracloud) - Terraform Provider for Jira Cloud with support for managing project components, including component leads as default assignees.
